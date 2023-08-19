@@ -21,22 +21,88 @@ header a {
   color: white;
   text-decoration: none;
 }
-/* Original Footer Style */
-footer {
-  background-color: #373738;
-  padding: 15px;
+.img-header {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
-footer ul {
-  float: right;
+.img-issues{
+  width: 200px;
+  margin-left: auto;
 }
-footer li {
-  display: inline-block;
-  padding: 0px 5px;
+.img-heuristic{
+  width: 400px;
+  margin-left: auto;
 }
-footer a {
-  color: white;
-  text-decoration: none;
+.img-matrix {
+  width: 400px;
+  margin-left: auto;
 }
+.img-empathy {
+  width: 400px;
+  margin-top: auto;
+}
+.img-user {
+  width: 700px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img-userflow {
+  width: 800px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img-site {
+  width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img-welcome{
+  width: 400px;
+  margin-top: auto;
+}
+.img-midfidelity{
+  width: 600px;
+  margin-left: auto;
+}
+.img-styles {
+  width: 800px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img-des2 {
+  width: 550px;
+  margin-top: auto;
+}
+.img-des3 {
+  width: 550px;
+  margin-left: auto;
+}
+.img-homewire {
+  width: 550px;
+  margin-top: auto;
+}
+.img-des1 {
+  width: 450px;
+  margin-left: auto;
+}
+.img-midwire {
+  width: 550px;
+  margin-top: auto;
+}
+.img-testimonial {
+  width: 550px;
+  margin-left: auto;
+}
+
+
+
+
+
 
 /* Custom CSS */
 .brief_labels {
